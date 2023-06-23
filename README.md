@@ -1,1 +1,229 @@
-# first
+<!DOCTYPE html>
+<html 
+<head>
+<title>
+    <meta charset="UTF-8">
+    <link href="index.css" 
+</title>
+    </head>
+
+    <body>
+        <header>
+            <p>abdlrhman</p> &nbsp;
+            <a class="what" href="https://www.instagram.com/abdelrhman__n/" target="_blank">instagram</a>
+        </header>
+        <style>
+            h3{
+                color: white;
+                padding: 50px;
+                border-width: 20px;
+                border-color: azure;
+                border-style: solid;
+                margin: 30px;
+                background-image: url("img/xxxtentacion-album-scribbles-bv8d3p6mzvoxfbos.jpg");
+            }
+            p{
+                color: white;
+
+            }
+            body{background-color: black;
+            }
+            div{
+            margin: auto;
+            }
+        .what{
+            color: cyan;
+        }
+        head{
+            background-image:url(img/xxxtentacion-album-scribbles-bv8d3p6mzvoxfbos.jpg);
+        }
+        body{
+            color: rgb(252, 254, 255);
+        }
+        </style>
+        <h3>
+            Xxxtentacion Born and raised in Plantation, tentacion started and spent most of his childhood in
+                Lauderhill.
+                He
+                started writing songs after being released from a juvenile correctional center and released his first
+                single
+                on
+                SoundCloud in June 2013, titled "News/Flock". He has also been a prominent icon in Soundcloud Rap.
+                tentacion
+                released his first album on August 25, 2017, titled 17, followed by "?" On March 16, 2018. His latest
+                album
+                topped the Billboard 200 immediately after its release, and his songs "Sad!" and "Changes" to number
+                seven
+                and
+                thirty-seven on the Billboard Hot 100, respectively. tentacion was fatally shot on June 18, 2018 in
+                Deerfield
+                Beach.
+        </h3>
+        <article>
+            <div>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Xxxtentacion_%28cropped%29.jpg/220px-Xxxtentacion_%28cropped%29.jpg"
+                alt="" </article>
+            <br>
+            <hr>
+        </div>
+            <div>
+                <form action="" method="post">
+                    <div>
+                        <input type="text" required placeholder="name" autofocus><br>
+                        <input type="password" required placeholder="password" minlength="10" maxlength="20"><br>
+                        <input type="email" required placeholder="email"><br>
+                        <input type="date" required>
+                        <input type="hidden">
+                        <input type="number" required min="0" max="100" required>
+                        <input type="color" required>
+                        <input type="range" required min="10" max="200" required>
+                        <div>
+                            <hr>
+                            <input id="win" type="radio" name="your sestem" value="windows">
+                            <label for="win">win</label>
+                            <input id="lin" type="radio" name="your sestem" value="linux">
+                            <label for="lin">linux</label>
+                            <input id="mac" type="radio" name="your sestem" value="mac">
+                            <label for="mac">mac</label>
+                        </div>
+                        <div>
+                            <hr>
+                            <input id="win" type="checkbox" name="your sestem" value="windows">
+                            <label for="win">win</label>
+                            <input id="lin" type="checkbox" name="your sestem" value="linux">
+                            <label for="lin">linux</label>
+                            <input id="mac" type="checkbox" name="your sestem" value="mac">
+                            <label for="mac">win</label>
+                            <hr>
+                            <div>
+                                <label for="book"> choose book</label>
+                                <select name="book" id="book1" multiple>
+                                    <optgroup label="1">
+                                        <option value="1">book1</option>
+                                        <option value="2">book2</option>
+                                        <option value="3">book3</option>
+                                    </optgroup>
+                                    <optgroup label="2">
+                                        <option value="4">book4</option>
+                                        <option value="5">book5</option>
+                                        <option value="6">book6</option>
+                                    </optgroup>
+                                </select>
+                                <input type="file" <hr>
+                            </div>
+                            <textarea name="text here" id="" cols="30" rows="10"></textarea>
+                        </div>
+                        <hr>
+                        <input list="country" name="choose your country">
+                        <datalist id="country">
+                            <option value="egypt">
+                            <option value="us">
+                            <option value="uk">
+                            <option value="morocco">
+                        </datalist>
+                        <hr>
+                    </div>
+                    <input type="submit">
+                    <input type="reset">
+                </form>
+                </aside>
+                <h2>fav albums</h2>
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <td>name</td>
+                            <td>album</td>
+                            <td>year</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>ATTENTION!</td>
+                            <td>Bad vibes forever</td>
+                            <td>2019</td>
+                        </tr>
+                        <tr>
+                            <td>BAD!</td>
+                            <td>skins</td>
+                            <td>2018</td>
+                        </tr>
+                        <tr>
+                            <td>whoa</td>
+                            <td>skins</td>
+                            <td>2018</td>
+                        </tr>
+                        <tr>
+                            <td>alone,part3</td>
+                            <td>?</td>
+                            <td>2018</td>
+                        </tr>
+                        <tr>
+                            <td>the remedy for a broken heart</td>
+                            <td>?</td>
+                            <td>2018</td>
+                        </tr>
+                        <tr>
+                            <td>NUMB</td>
+                            <td>?</td>
+                            <td>2018</td>
+                        </tr>
+                        <tr>
+                            <td>revenge</td>
+                            <td>17</td>
+                            <td>2017</td>
+                        </tr>
+                        <tr>
+                            <td>every body daies in their nightmares</td>
+                            <td>17</td>
+                            <td>2017</td>
+                        </tr>
+                        <tr>
+                            <td>save me</td>
+                            <td>17</td>
+                            <td>2017</td>
+                        </tr>
+                        <tr>
+                            <td>carry on</td>
+                            <td>17</td>
+                            <td>2017</td>
+                        </tr>
+                        <tr>
+                            <td>jocelyn flores</td>
+                            <td>17</td>
+                            <td>2017</td>
+                        </tr>
+                        <tr>
+                            <td>fuck love</td>
+                            <td>17</td>
+                            <td>2017</td>
+                        </tr>
+                        <tr>
+                            <td>dead Inside</td>
+                            <td>17</td>
+                            <td>2017</td>
+                        </tr>
+                        <tr>
+                            <td>Look At Me</td>
+                            <td>Look At Me</td>
+                            <td>2015</td>
+                        </tr>
+
+                    <tfoot>
+                    </tfoot>
+                    </tbody>
+                </table>
+                <b>i still listen to this legend because he won't be forgotten</b>
+            </div>
+            ,<img src="img/xxxtentacion-album-scribbles-bv8d3p6mzvoxfbos.jpg" alt="tentacion wordes">
+            <br>
+            <audio controls
+                src="media/AFROTO - TEGE GOAL _ عفروتو - تيجى جون (OFFICIAL MUSIC VIDEO) PROD BY RASHED MUZIK(MP3_128K).mp3">
+                your browser does not support audio
+            </audio> <br>
+            <video controls src="media/Bungou_Stray_Dogs_4th_Season_6_360_mp4.mp4" your browser does not support video
+                </video>
+                <P class="super">WHATTTTT</P>
+                <p>abdelrhman&copy;</p>
+    </body>
+
+</html>
